@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Roll a Ball"
+		},
+		{
+			"path": "../CS122"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CS122"
+	}
+}
